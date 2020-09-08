@@ -1,0 +1,10 @@
+1. file paths built
+2. nav to food directory by using cd images, cd clipart, cd food
+3. (cd ..) goes back to clipart, (cd ..) goes to images, (cd ..) goes to directories, and then (cd e-texts) and finally (cd Poe,EdgarAllen)
+4. type in (ls) when in Poe directory
+5. ls or tree I assume, but I cannot get tree to work on Mac
+6. mkdir photographs
+7. cd photographs, touch sunrise.jpg
+8. mv sunrise.jpg ../sunrise.jpg
+9. cd .., cd Monkeys, cd like
+10.rm bananas.html
